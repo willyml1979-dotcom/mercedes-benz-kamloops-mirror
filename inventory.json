@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Kamloops",
-  "generated_at": "2026-09-26T10:13:30",
-  "vehicle_count": 28,
+  "generated_at": "2026-09-26T10:45:36",
+  "vehicle_count": 33,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -187,6 +187,18 @@
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUV",
+      "vin": "W1N4N4HB9TJ816339",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/60fbcc8f3c5c.html",
+      "source_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id37571847",
+      "dealer_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id37571847?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T10:40:26",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA 250 4MATIC SUV",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Mercedes-Benz GLA 250 4MATIC SUV",
       "vin": "W1N4N4HB9TJ874547",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/29df5d234858.html",
       "source_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id38657467",
@@ -198,15 +210,15 @@
       "condition": "new"
     },
     {
-      "name": "2026 Mercedes-Benz GLA 250 SUV",
-      "vin": "W1N4N4GB6TJ883613",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/d12ea6097925.html",
-      "source_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id38672873",
-      "dealer_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id38672873?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T10:34:46",
+      "name": "2026 Mercedes-Benz GLA 250 4MATIC SUV",
+      "vin": "W1N4N4HB4TJ907440",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/d37d29cff8d4.html",
+      "source_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39254973",
+      "dealer_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39254973?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T10:40:41",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 SUV",
+      "model": "GLA 250 4MATIC SUV",
       "condition": "new"
     },
     {
@@ -231,6 +243,18 @@
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "GLB 250 4MATIC SUV",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Mercedes-Benz GLC 300 4MATIC SUV",
+      "vin": "W1NKM4HB4TF537538",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/5521e3fd07d4.html",
+      "source_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id38621382",
+      "dealer_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id38621382?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T10:40:57",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLC 300 4MATIC SUV",
       "condition": "new"
     },
     {
@@ -267,6 +291,18 @@
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "GLC 350e 4MATIC SUV",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Mercedes-Benz GLC 300 4MATIC SUV",
+      "vin": "W1NKM4HB9TF617708",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/84c483d11395.html",
+      "source_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id38916271",
+      "dealer_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id38916271?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T10:41:13",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLC 300 4MATIC SUV",
       "condition": "new"
     },
     {
@@ -342,12 +378,36 @@
       "condition": "new"
     },
     {
+      "name": "2026 Mercedes-Benz Sprinter 2500 170 Wheelbase High Roof AWD",
+      "vin": "W1Y4NCVY5TP936108",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/77d1bf5f3235.html",
+      "source_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38861494",
+      "dealer_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38861494?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T10:41:42",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter 2500 170 Wheelbase High Roof AWD",
+      "condition": "new"
+    },
+    {
       "name": "2027 Mercedes-Benz GLC 300 4MATIC SUV",
       "vin": "W1NKM4HB8VF662772",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/b3a1dddc04d1.html",
       "source_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39192667",
       "dealer_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39192667?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T10:36:28",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "GLC 300 4MATIC SUV",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Mercedes-Benz GLC 300 4MATIC SUV",
+      "vin": "W1NKM4HBXVF659100",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/ebcd1c980632.html",
+      "source_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39238173",
+      "dealer_url": "https://www.mercedes-benz-kamloops.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39238173?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T10:41:27",
       "year": 2027,
       "make": "Mercedes-Benz",
       "model": "GLC 300 4MATIC SUV",

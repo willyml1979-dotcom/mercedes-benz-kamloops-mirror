@@ -3,7 +3,7 @@
 > Mercedes Benz Kamloops is a  dealership in Kamloops. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
 
 ## Inventory
-- [Used vehicles](https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/used/): 28 vehicles, updated regularly
+- [Used vehicles](https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/used/): 33 vehicles, updated regularly
 - [Inventory feed](https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
 
 ## Resources
