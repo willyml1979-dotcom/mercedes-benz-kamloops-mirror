@@ -1,6 +1,6 @@
 {
   "dealership": "Mercedes Benz Kamloops",
-  "generated_at": "2026-11-17T01:12:49",
+  "generated_at": "2026-11-17T01:33:27",
   "vehicle_count": 56,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -393,15 +393,6 @@
       "condition": "new"
     },
     {
-      "name": "2026 Mercedes-Benz GLE 450e 4MATIC SUV",
-      "vin": "4JGFB4GB9TB546111",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/200921aa3d8f.html",
-      "year": 2026,
-      "make": "Mercedes-Benz",
-      "model": "GLE",
-      "condition": "new"
-    },
-    {
       "name": "2026 Mercedes-Benz GLE 350 4MATIC SUV",
       "vin": "4JGFB4FE4TB558470",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/958401b4a51a.html",
@@ -504,6 +495,15 @@
       "name": "2027 Mercedes-Benz GLC 300 4MATIC SUV",
       "vin": "W1NKM4HB2VF660371",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/3cc120842384.html",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Mercedes-Benz GLC 350e 4MATIC SUV",
+      "vin": "W1NKM5GB1VF668338",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/525059899531.html",
       "year": 2027,
       "make": "Mercedes-Benz",
       "model": "GLC",
