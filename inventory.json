@@ -1,19 +1,10 @@
 {
   "dealership": "Mercedes Benz Kamloops",
-  "generated_at": "2026-11-17T21:40:47",
+  "generated_at": "2026-11-18T07:03:09",
   "vehicle_count": 56,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "2014 Ram RAM 1500 Crew Cab 4x4 Sport",
-      "vin": "1C6RR7MT2ES399135",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/used/816d03ddb08a.html",
-      "year": 2014,
-      "make": "Ram",
-      "model": "1500",
-      "condition": "used"
-    },
     {
       "name": "2022 Mercedes-Benz GLC43 AMG 4MATIC SUV",
       "vin": "W1N0G6EB1NV376802",
@@ -48,6 +39,15 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Hyundai Venue Essential IVT",
+      "vin": "KMHRC8A31SU399109",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/used/412e6aa8c6e6.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Venue",
       "condition": "used"
     },
     {
