@@ -7,7 +7,7 @@ Mercedes Benz Kamloops is a  dealership in Kamloops. This site is an AI-readable
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/used/ and https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/ (about 56 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/used/ and https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/new/ (about 58 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/llms.txt

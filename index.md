@@ -1,6 +1,6 @@
 # Mercedes Benz Kamloops
 
- dealership in Kamloops. AI-readable inventory mirror, about 56 vehicles.
+ dealership in Kamloops. AI-readable inventory mirror, about 58 vehicles.
 
 - Official website: https://www.mercedes-benz-kamloops.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/mercedes-benz-kamloops-mirror/used/
